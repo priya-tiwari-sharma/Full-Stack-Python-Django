@@ -1,1 +1,1 @@
-# Full-Stack-Python-Django
+# Full-Stack-Python-Django Course
